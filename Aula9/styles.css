@@ -15,6 +15,10 @@
     flex-wrap: wrap;
 }
 
+.flex-direction {
+    flex-direction: row;
+}
+
 .max-width {
     max-width: 100px;
 }
